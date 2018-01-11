@@ -1,4 +1,4 @@
-pkg_origin=echohack
+pkg_origin=yhsueh-hab-origin
 pkg_name=np-mongodb
 pkg_version=3.2.9
 pkg_description="Mongodb for National-Parks app"
